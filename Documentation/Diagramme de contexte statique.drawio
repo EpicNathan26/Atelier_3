@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T09:03:43.527Z" agent="5.0 (Windows)" etag="U_CFXiqQACBBM5Jy7ICa" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-15T09:05:11.390Z" agent="5.0 (Windows)" etag="797JvjH-HBN0vC9uDpoG" version="15.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,22 +223,16 @@
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ANoVoo3EdIFNYSjs5ymE-78" value="ÉVÉNEMENTS" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="1400" width="160" height="120" as="geometry" />
+          <mxGeometry x="150" y="1440" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ANoVoo3EdIFNYSjs5ymE-79" value="nomEvent&#xa;numEvent&#xa;IDuser&#xa;nomTâche&#xa;lieu&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="ANoVoo3EdIFNYSjs5ymE-78">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ANoVoo3EdIFNYSjs5ymE-187" value="TÂCHES" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="1200" width="160" height="120" as="geometry" />
+          <mxGeometry x="240" y="1280" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ANoVoo3EdIFNYSjs5ymE-188" value="nomTâche&#xa;numTâche&#xa;IDuser&#xa;eventAffect" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="ANoVoo3EdIFNYSjs5ymE-187">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="ANoVoo3EdIFNYSjs5ymE-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ANoVoo3EdIFNYSjs5ymE-75" target="ANoVoo3EdIFNYSjs5ymE-188">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ANoVoo3EdIFNYSjs5ymE-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ANoVoo3EdIFNYSjs5ymE-75" target="ANoVoo3EdIFNYSjs5ymE-79">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ANoVoo3EdIFNYSjs5ymE-239" value="GESTIONNAIRE" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="595" y="1420" width="160" height="120" as="geometry" />
